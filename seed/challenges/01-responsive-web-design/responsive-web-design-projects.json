@@ -41,7 +41,7 @@
         [
           "//i.imgur.com/G9KFQDL.gif",
           "A gif showing the process of adding Bootstrap to your pen.",
-          "Click the gear in the upper left hand corner of the CSS box, then scroll down to \"Quick add\" and choose Bootstrap. Now give your <code>h1</code> element the class of <code>text-primary</code> to change its color and prove that Bootstrap is now available.",
+          "Click the gear in the upper left hand corner of the CSS box, then scroll down to \"Quick add\" and choose Bootstrap. Now give your <code>h1</code> element the class of <code>text-primary</code> to change its color and prove that Bootstrap is now available. <br><div class=\"small\">Note: The previous bootstrap-challenges used bootstrap version 3. The quick-add feature in codepen might add another (newer) version of bootstrap, so you should pay attention to the <a href=\"http://www.quackit.com/bootstrap/bootstrap_4/differences_between_bootstrap_3_and_bootstrap_4.cfm\" target=\"_blank\">differences</a>.<br>Otherwise you can manually add version 3, as used in the bootstrap challenges (http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css).</div>",
           ""
         ],
         [
